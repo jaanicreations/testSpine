@@ -2,7 +2,7 @@
 //  SkeletonManager.m
 //  spine-cocos2d-iphone-ios
 //
-//  Created by Naveed Iqbal on 18/06/2013.
+//  Created by Naveed Iqbal on 18/06/2013 using code from @BigRed.
 //  Provided under MIT license
 
 #import "SkeletonManager.h"
